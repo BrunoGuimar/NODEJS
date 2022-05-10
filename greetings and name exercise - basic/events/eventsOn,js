@@ -1,0 +1,9 @@
+const {EventEmitter} = require("events")
+const ev = new EventEmitter()
+
+ev.on(`SaySomething`, (message) => {
+    console.log(`You have receave a message:`, message)
+})
+
+ev.emit(`SaySomething`, `DHSAUDHASUDA ahhaa`)
+ev.emit(`SaySomething`, `uuuh lala uuhh lala`)

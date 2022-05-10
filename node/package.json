@@ -1,0 +1,17 @@
+{
+  "name": "any-name",
+  "version": "1.0.0",
+  "description": "Learning node",
+  "main": "console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "cfonts": "^2.10.1",
+    "inquirer": "^8.2.2",
+    "opn": "^6.0.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "greetings-and-name-exercise---basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.10.1"
+  }
+}
